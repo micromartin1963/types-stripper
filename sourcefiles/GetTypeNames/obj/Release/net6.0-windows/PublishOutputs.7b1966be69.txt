@@ -1,0 +1,5 @@
+C:\Users\6core\Desktop\publish\GetTypeNames.exe
+C:\Users\6core\Desktop\publish\GetTypeNames.dll
+C:\Users\6core\Desktop\publish\GetTypeNames.deps.json
+C:\Users\6core\Desktop\publish\GetTypeNames.runtimeconfig.json
+C:\Users\6core\Desktop\publish\GetTypeNames.pdb

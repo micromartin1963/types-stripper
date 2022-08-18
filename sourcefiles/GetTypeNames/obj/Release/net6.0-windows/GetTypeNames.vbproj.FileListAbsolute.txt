@@ -1,0 +1,17 @@
+C:\Users\6core\source\repos\GetTypeNames\bin\Release\net6.0-windows\GetTypeNames.exe
+C:\Users\6core\source\repos\GetTypeNames\bin\Release\net6.0-windows\GetTypeNames.deps.json
+C:\Users\6core\source\repos\GetTypeNames\bin\Release\net6.0-windows\GetTypeNames.runtimeconfig.json
+C:\Users\6core\source\repos\GetTypeNames\bin\Release\net6.0-windows\GetTypeNames.dll
+C:\Users\6core\source\repos\GetTypeNames\bin\Release\net6.0-windows\GetTypeNames.pdb
+C:\Users\6core\source\repos\GetTypeNames\obj\Release\net6.0-windows\GetTypeNames.vbproj.AssemblyReference.cache
+C:\Users\6core\source\repos\GetTypeNames\obj\Release\net6.0-windows\GetTypeNames.Form1.resources
+C:\Users\6core\source\repos\GetTypeNames\obj\Release\net6.0-windows\GetTypeNames.vbproj.GenerateResource.cache
+C:\Users\6core\source\repos\GetTypeNames\obj\Release\net6.0-windows\GetTypeNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6core\source\repos\GetTypeNames\obj\Release\net6.0-windows\GetTypeNames.AssemblyInfoInputs.cache
+C:\Users\6core\source\repos\GetTypeNames\obj\Release\net6.0-windows\GetTypeNames.AssemblyInfo.vb
+C:\Users\6core\source\repos\GetTypeNames\obj\Release\net6.0-windows\GetTypeNames.vbproj.CoreCompileInputs.cache
+C:\Users\6core\source\repos\GetTypeNames\obj\Release\net6.0-windows\GetTypeNames.dll
+C:\Users\6core\source\repos\GetTypeNames\obj\Release\net6.0-windows\refint\GetTypeNames.dll
+C:\Users\6core\source\repos\GetTypeNames\obj\Release\net6.0-windows\GetTypeNames.pdb
+C:\Users\6core\source\repos\GetTypeNames\obj\Release\net6.0-windows\GetTypeNames.genruntimeconfig.cache
+C:\Users\6core\source\repos\GetTypeNames\obj\Release\net6.0-windows\ref\GetTypeNames.dll
